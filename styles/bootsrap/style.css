@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: rgb(119, 91, 18);
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (max-width: 480px) {
+    body {
+        background-color: rgb(201, 182, 16);
+        color: black;
+    }
+}
